@@ -1,0 +1,9 @@
+# Created at 2021-08-23T09:54:00.185
+java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
+
+# Created at 2021-08-23T09:54:00.186
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:417)
+
+# Created at 2021-08-23T09:54:00.812
+O sistema n�o pode encontrar o caminho especificado.
+
